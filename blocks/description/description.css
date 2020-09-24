@@ -1,0 +1,10 @@
+.description {
+  display: flex;
+  align-items: center;
+  min-height: auto;
+  position: relative;
+  flex-direction: column;
+  background-color: #fff;
+  margin: 0;
+  padding-top: 100px;
+}
