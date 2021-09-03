@@ -1,6 +1,6 @@
-# Научиться учиться
+# Научиться учиться / How to learn
 
-This is a training model of a website from **Yandex Praktikum** to learn basic and some more advanced features of web development. Represented as one-page website didived into blocks. Fully done by a stydent Iryna Abah.
+This project was done to learn building static web page layouts. Represented as one-page website didived into blocks. Fully done by a stydent Iryna Abah.
 
 ## Technologies used:
 * HTML5;
@@ -11,7 +11,7 @@ The following main features of HTML and CSS were used:
 * semantic HTML;
 * flexbox;
 * iframes;
-* <img> and image resize;
+* image resize;
 * animation and transformation.
 
 ## Files structure and naming
